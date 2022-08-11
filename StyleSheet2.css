@@ -3,16 +3,16 @@
 }
 
 h1 {
-    color: white;
-    font-family: Arial;
-    font-weight: 100;
-    font-size: 40px;
-    letter-spacing: 8px;
+	font-family: Arial;
+	color: white; 
+	font-size: 75px;
+	font-weight: normal;
+	letter-spacing: 8px;
+	text-align: right;
+	height: 400px;
+	margin: 0 0 50px;
+	padding: 30px 30px 0 0;
     background-image: url(https://images.hdqwalls.com/download/tram-in-downtown-toronto-2e-1920x1080.jpg);
-    text-align: right;
-    height: 400px;
-    margin: 0 0 40px 0;
-    padding: 30px 30px 0 0;
 }
 
 img {
