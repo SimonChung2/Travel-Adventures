@@ -1,0 +1,25 @@
+* {
+    background: black;
+}
+
+h1 {
+    color: white;
+    font-family: Arial;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 8px;
+    background-image: url(https://images.hdqwalls.com/download/tram-in-downtown-toronto-2e-1920x1080.jpg);
+    text-align: right;
+    margin: 0 0 40px 0;
+    padding: 60px 30px;
+}
+
+img {
+    height: 800px;
+    margin: 20px;
+    
+}
+
+.photo {
+    text-align: center;
+}
